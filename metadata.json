@@ -1,0 +1,6 @@
+{
+  "name": "Experience Voucher Processor",
+  "description": "Automatically generates and sends vouchers upon successful PayPal purchases, storing customer data in Supabase for GDPR compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
